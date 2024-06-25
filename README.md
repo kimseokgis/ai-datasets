@@ -1,3 +1,4 @@
 # ai-datasets
-Repository Cleaning Validasi Dataset
-- Cleaning, Validasi
+### List Task Dataset (tidak masuk Poin)
+- Validasi dan cleaning ulang lagi dataset
+- Cari Stop Words, dan ganti kata kataambigu
