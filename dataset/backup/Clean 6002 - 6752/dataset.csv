@@ -311,19 +311,16 @@ iteung minta transkrip nilai|Untuk meminta transkrip nilai Anda harus menghubung
 iteung input presensi M32KNT|M32KNT is not a valid input
 Pa absensi udah bisa pake ijazah|Ya, ijazah bisa digunakan untuk absensi Ijazah dapat digunakan sebagai bukti identitas yang sah dan dapat digunakan untuk memverifikasi identitas seseorang Dengan menggunakan ijazah seseorang dapat mengkonfirmasi identitasnya dan mengkonfirmasi bahwa mereka hadir di suatu tempat Ijazah juga dapat digunakan untuk memverifikasi bahwa seseorang benar-benar berhak untuk mengakses suatu lokasi atau layanan
 input absen LQ7DDN|LQ7DDN is not a valid input
-input absen 9AM1RA|Terimakasih absen Anda telah tercatat
-input absen IM14JD|Selamat datang IM14JD Anda berhasil melakukan absen
-input absen LQ7DDN|LQ7DDN berhasil dicatat
-input absen KMCVCX|Maaf input absen yang Anda masukkan tidak valid Silakan coba lagi
-input absen BM1N17|Terimakasih telah melakukan absen BM1N17
-input absen 7R3EEF|Selamat datang 7R3EEF
-input absen RCNQK5|Selamat datang RCNQK5 semoga hari Anda menyenangkan
-input absen 6EIJUM|Terima kasih absen 6EIJUM Anda telah tercatat
-input absen KMCVCX|Maaf input absen yang Anda masukkan tidak valid Silakan coba lagi
-input absen KMCVCX|KMCVCX berhasil dicatat
-input absen 9IBMLW|Terimakasih absen Anda sudah tercatat
-Input absen MMIIEG|No Nama 1 Andi2 Budi3 Caca4 Deni5 Euis
-Input absen MMIIEG|No Nama 1 Andi2 Budi3 Caca4 Deni5 Euis
+input absen 9AM1RA|9AM1RA is not a valid input
+input absen IM14JD|IM14JD is not a valid input
+input absen KMCVCX|KMCVCX is not a valid input
+input absen BM1N17|BM1N17 is not a valid input
+input absen 7R3EEF|7R3EEF is not a valid input
+input absen RCNQK5|RCNQK5 is not a valid input
+input absen 6EIJUM|6EIJUM is not a valid input
+input absen KMCVCX|KMCVCX is not a valid input
+input absen 9IBMLW|9IBMLW is not a valid input
+Input absen MMIIEG|MMIIEG is not a valid input
 Ingat teman teman absen adalah ketidak hadiran dan presensi adalah kehadiran jangan kalian buat begini nanti kalian di anggap gk hadir|Kami mengerti Kami akan berhati-hati dan memastikan bahwa kami mengisi absen dan presensi dengan benar Kami juga akan memastikan bahwa kami hadir tepat waktu dan tidak terlambat Terima kasih
 Lu gk di ajak|Halo tentu saja saya akan senang jika Anda mengajak saya Apa yang ingin Anda lakukan?
 input absen JRXKIR|JRXKIR Anda berhasil melakukan absen
